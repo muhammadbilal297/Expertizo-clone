@@ -150,7 +150,7 @@
         max-width: 100%; 
     }
     .mobile img {
-        position: static;
+        position: absolute;
         top: 0;
         right: 0;
         max-width: 100%; 
